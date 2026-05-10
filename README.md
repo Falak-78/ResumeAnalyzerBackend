@@ -69,13 +69,5 @@ Text is extracted using Apache Tika
 AI model processes content using Spring AI + Ollama
 Structured insights are returned as JSON
 
-🧪 How to Run Locally............
-# Clone repo
-git clone https://github.com/your-username/ai-resume-analyzer.git
 
-# Navigate to project
-cd ai-resume-analyzer
-
-# Run Spring Boot app
-mvn spring-boot:run
 
