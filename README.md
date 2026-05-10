@@ -79,21 +79,3 @@ cd ai-resume-analyzer
 # Run Spring Boot app
 mvn spring-boot:run
 
-Server runs at:..........................
-
-👉 http://localhost:8080
-
-📌 Future Improvements
-🔐 User authentication (JWT)
-☁️ Cloud deployment (AWS / Render)
-📊 Dashboard for resume history
-🤖 Chat-based resume suggestions
-👨‍💻 Author
-
-Abhiraj Kumar
-
-📧 Email: mr10abhiraj@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/abhiraj17
-⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
